@@ -1,0 +1,10 @@
+{
+  "name": "workflow_projects",
+  "version": "0.0.1",
+  "description": "a project to showcase workflow",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Jimmy Kennedy"
+}
