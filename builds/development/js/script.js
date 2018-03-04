@@ -77,7 +77,7 @@ $ = require('jquery');
 
 (fill = function(item) {
   return $('.tagline').append(`${item}`);
-})('Mediocre minds in Art');
+})('Good thing they live with their parents');
 
 fill;
 
