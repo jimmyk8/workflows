@@ -1,9 +1,9 @@
-var $, fill;
+// var $, fill;
 
-$ = require('jquery');
+// $ = require('jquery');
 
-(fill = function(item) {
-  return $('.tagline').append("" + item);
-})('Good thing they live with their parents');
+// (fill = function(item) {
+//   return $('.tagline').append(`${item}`);
+// })('Good thing they live with their parents');
 
-fill;
+// fill;
